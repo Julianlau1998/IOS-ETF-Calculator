@@ -7,15 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B90C8B3328EB4AB1003D826A /* android-chrome-512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */; };
 		B9B6BB3728E8D686006EA228 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3628E8D686006EA228 /* AppDelegate.swift */; };
 		B9B6BB3928E8D686006EA228 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3828E8D686006EA228 /* SceneDelegate.swift */; };
 		B9B6BB3B28E8D686006EA228 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3A28E8D686006EA228 /* ViewController.swift */; };
 		B9B6BB3E28E8D686006EA228 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB3C28E8D686006EA228 /* Main.storyboard */; };
 		B9B6BB4028E8D689006EA228 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB3F28E8D689006EA228 /* Assets.xcassets */; };
 		B9B6BB4328E8D689006EA228 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB4128E8D689006EA228 /* LaunchScreen.storyboard */; };
+		BE09F95D7A09972C6663D5DF /* Pods_ETF_Calculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		673E59AD1509B42B33462DC6 /* Pods-ETF Calculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ETF Calculator.release.xcconfig"; path = "Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator.release.xcconfig"; sourceTree = "<group>"; };
+		764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ETF_Calculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A723F8E8E1B20EA15BC23B05 /* Pods-ETF Calculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ETF Calculator.debug.xcconfig"; path = "Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator.debug.xcconfig"; sourceTree = "<group>"; };
+		B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "android-chrome-512x512.png"; path = "../../android-chrome-512x512.png"; sourceTree = "<group>"; };
 		B9B6BB3328E8D686006EA228 /* ETF Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ETF Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9B6BB3628E8D686006EA228 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9B6BB3828E8D686006EA228 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -31,17 +37,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE09F95D7A09972C6663D5DF /* Pods_ETF_Calculator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D1B077AE3155816A9E0DA88 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6D9DF910249F94EC4721490D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A723F8E8E1B20EA15BC23B05 /* Pods-ETF Calculator.debug.xcconfig */,
+				673E59AD1509B42B33462DC6 /* Pods-ETF Calculator.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		B9B6BB2A28E8D686006EA228 = {
 			isa = PBXGroup;
 			children = (
 				B9B6BB3528E8D686006EA228 /* ETF Calculator */,
 				B9B6BB3428E8D686006EA228 /* Products */,
+				6D9DF910249F94EC4721490D /* Pods */,
+				5D1B077AE3155816A9E0DA88 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,6 +89,7 @@
 				B9B6BB3F28E8D689006EA228 /* Assets.xcassets */,
 				B9B6BB4128E8D689006EA228 /* LaunchScreen.storyboard */,
 				B9B6BB4428E8D689006EA228 /* Info.plist */,
+				B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */,
 			);
 			path = "ETF Calculator";
 			sourceTree = "<group>";
@@ -74,9 +101,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B9B6BB4728E8D689006EA228 /* Build configuration list for PBXNativeTarget "ETF Calculator" */;
 			buildPhases = (
+				EE6AD26ADB98ACF749AE11B9 /* [CP] Check Pods Manifest.lock */,
 				B9B6BB2F28E8D686006EA228 /* Sources */,
 				B9B6BB3028E8D686006EA228 /* Frameworks */,
 				B9B6BB3128E8D686006EA228 /* Resources */,
+				BEBC16418FD3A40E81C2FDB7 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -127,11 +156,54 @@
 			files = (
 				B9B6BB4328E8D689006EA228 /* LaunchScreen.storyboard in Resources */,
 				B9B6BB4028E8D689006EA228 /* Assets.xcassets in Resources */,
+				B90C8B3328EB4AB1003D826A /* android-chrome-512x512.png in Resources */,
 				B9B6BB3E28E8D686006EA228 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BEBC16418FD3A40E81C2FDB7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EE6AD26ADB98ACF749AE11B9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ETF Calculator-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		B9B6BB2F28E8D686006EA228 /* Sources */ = {
@@ -284,11 +356,13 @@
 		};
 		B9B6BB4828E8D689006EA228 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A723F8E8E1B20EA15BC23B05 /* Pods-ETF Calculator.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = HNRK32U6CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "ETF Calculator/Info.plist";
@@ -301,9 +375,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Julian.ETF-Calculator";
+				MARKETING_VERSION = 1.0.6;
+				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,11 +387,13 @@
 		};
 		B9B6BB4928E8D689006EA228 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 673E59AD1509B42B33462DC6 /* Pods-ETF Calculator.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = HNRK32U6CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "ETF Calculator/Info.plist";
@@ -329,9 +406,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Julian.ETF-Calculator";
+				MARKETING_VERSION = 1.0.6;
+				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
