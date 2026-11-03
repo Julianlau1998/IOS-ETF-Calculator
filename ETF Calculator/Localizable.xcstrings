@@ -1,0 +1,3890 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "“Automatic” gives every tab its own color. Pick a theme to use one color throughout the app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„Automatisch“ gibt jedem Tab eine eigene Farbe. Wähle ein Thema, um eine Farbe in der ganzen App zu nutzen."
+          }
+        }
+      }
+    },
+    "“In Today's Money” shows the final value adjusted for %@ annual inflation.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„Heutige Kaufkraft“ zeigt den Endwert bereinigt um %@ jährliche Inflation."
+          }
+        }
+      }
+    },
+    "(%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(%@)"
+          }
+        }
+      }
+    },
+    "%@ (Copy)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (Kopie)"
+          }
+        }
+      }
+    },
+    "%@ × %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ × %@"
+          }
+        }
+      }
+    },
+    "%@ ahead of plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vor Plan"
+          }
+        }
+      }
+    },
+    "%@ behind plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ hinter Plan"
+          }
+        }
+      }
+    },
+    "%@ is your most expensive position (%@). Cheaper alternatives often exist.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ist deine teuerste Position (%@). Oft gibt es günstigere Alternativen."
+          }
+        }
+      }
+    },
+    "%@ nominal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ nominal"
+          }
+        }
+      }
+    },
+    "%@ p.a.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ p. a."
+          }
+        }
+      }
+    },
+    "%@/mo · %lld yrs · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@/Monat · %lld J. · %@"
+          }
+        }
+      }
+    },
+    "%@/mo since %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@/Monat seit %@"
+          }
+        }
+      }
+    },
+    "%lld distributions are imported too.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Ausschüttungen werden ebenfalls importiert."
+          }
+        }
+      }
+    },
+    "%lld of %lld free scenarios used. Premium saves unlimited scenarios.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld von %lld kostenlosen Szenarien belegt. Mit Premium sicherst du unbegrenzt viele."
+          }
+        }
+      }
+    },
+    "^[%lld Month](inflect: true)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "^[%lld Monat](inflect: true)"
+          }
+        }
+      }
+    },
+    "^[%lld Year](inflect: true)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "^[%lld Year](inflect: true), ^[%lld Month](inflect: true)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "^[%lld Jahr](inflect: true), ^[%lld Monat](inflect: true)"
+          }
+        }
+      }
+    },
+    "^[%lld Year](inflect: true), including lost returns": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "^[%lld Jahr](inflect: true), inklusive entgangener Rendite"
+          }
+        }
+      }
+    },
+    "+%@ per year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@ pro Jahr"
+          }
+        }
+      }
+    },
+    "500 simulated market paths": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "500 simulierte Marktverläufe"
+          }
+        }
+      }
+    },
+    "A calm experience without interruptions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ruhige Nutzung ohne Unterbrechungen"
+          }
+        }
+      }
+    },
+    "A flat tax on gains when selling. Rules vary by country — enter the rate that applies to you. This is a simplification, not tax advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine pauschale Steuer auf Gewinne beim Verkauf. Die Regeln unterscheiden sich je nach Land – trag den Satz ein, der für dich gilt. Dies ist eine Vereinfachung und keine Steuerberatung."
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Info"
+          }
+        }
+      }
+    },
+    "Account Type": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontoart"
+          }
+        }
+      }
+    },
+    "Actual Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktueller Wert"
+          }
+        }
+      }
+    },
+    "Ad": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anzeige"
+          }
+        }
+      }
+    },
+    "Ad Privacy Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datenschutzeinstellungen für Werbung"
+          }
+        }
+      }
+    },
+    "Add an ISIN and the number of shares — prices then update automatically.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trag ISIN und Stückzahl ein – die Kurse aktualisieren sich dann automatisch."
+          }
+        }
+      }
+    },
+    "Add Distribution": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausschüttung hinzufügen"
+          }
+        }
+      }
+    },
+    "Add First Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ersten Wert eintragen"
+          }
+        }
+      }
+    },
+    "Add Position": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position hinzufügen"
+          }
+        }
+      }
+    },
+    "Add Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert hinzufügen"
+          }
+        }
+      }
+    },
+    "Advance Lump Sum (Vorabpauschale)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorabpauschale berücksichtigen"
+          }
+        }
+      }
+    },
+    "After Taxes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nach Steuern"
+          }
+        }
+      }
+    },
+    "Amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrag"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Darstellung"
+          }
+        }
+      }
+    },
+    "As of %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stand: %@"
+          }
+        }
+      }
+    },
+    "Asset Class": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anlageklasse"
+          }
+        }
+      }
+    },
+    "Asset Classes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anlageklassen"
+          }
+        }
+      }
+    },
+    "Assumptions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annahmen"
+          }
+        }
+      }
+    },
+    "Automatic": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch"
+          }
+        }
+      }
+    },
+    "Automatic (%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch (%@)"
+          }
+        }
+      }
+    },
+    "Automatic prices aren't available. Enter the price manually.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatische Kurse sind nicht verfügbar. Trag den Kurs manuell ein."
+          }
+        }
+      }
+    },
+    "Balanced": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgewogen"
+          }
+        }
+      }
+    },
+    "Base Rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basiszins"
+          }
+        }
+      }
+    },
+    "Base Rate (Bundesbank)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basiszins (Bundesbank)"
+          }
+        }
+      }
+    },
+    "Based on %lld simulations with %@ annual volatility. 8 of 10 outcomes fall between pessimistic and optimistic.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basierend auf %lld Simulationen mit %@ jährlicher Schwankung. 8 von 10 Ergebnissen liegen zwischen pessimistisch und optimistisch."
+          }
+        }
+      }
+    },
+    "Bonds": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anleihen"
+          }
+        }
+      }
+    },
+    "Calculate final value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endkapital berechnen"
+          }
+        }
+      }
+    },
+    "Calculate Final Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endkapital berechnen"
+          }
+        }
+      }
+    },
+    "Calculate Required Savings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benötigte Sparrate berechnen"
+          }
+        }
+      }
+    },
+    "Calculated from your transactions. Values are based on the last purchase prices — update prices afterwards for current values.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus deinen Transaktionen berechnet. Die Werte basieren auf den letzten Kaufkursen – aktualisiere danach die Kurse für aktuelle Werte."
+          }
+        }
+      }
+    },
+    "Calculates how much you need to save each month to reach a target amount.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnet, wie viel du monatlich sparen musst, um einen Zielbetrag zu erreichen."
+          }
+        }
+      }
+    },
+    "Calculates the final value of your ETF savings plan.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnet das Endkapital deines ETF-Sparplans."
+          }
+        }
+      }
+    },
+    "Calculations are simplified models and not investment advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnungen sind vereinfachte Modelle und keine Anlageberatung."
+          }
+        }
+      }
+    },
+    "Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechner"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        }
+      }
+    },
+    "Cancel anytime in the App Store settings.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jederzeit in den App-Store-Einstellungen kündbar."
+          }
+        }
+      }
+    },
+    "Capital": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapital"
+          }
+        }
+      }
+    },
+    "Capital Gains Tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abgeltungssteuer"
+          }
+        }
+      }
+    },
+    "Capital gains tax and allowances": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abgeltungssteuer und Freibeträge"
+          }
+        }
+      }
+    },
+    "Capital over time": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapitalverlauf"
+          }
+        }
+      }
+    },
+    "Cash": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bargeld"
+          }
+        }
+      }
+    },
+    "Cautious": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorsichtig"
+          }
+        }
+      }
+    },
+    "Chance of Profit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinnwahrscheinlichkeit"
+          }
+        }
+      }
+    },
+    "Choose the colors of your cards": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wähle die Farben deiner Karten"
+          }
+        }
+      }
+    },
+    "Choose Your Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wähle dein Abo"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schließen"
+          }
+        }
+      }
+    },
+    "Collapsed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingeklappt"
+          }
+        }
+      }
+    },
+    "Color Theme": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Farbthema"
+          }
+        }
+      }
+    },
+    "Color Themes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Farbthemen"
+          }
+        }
+      }
+    },
+    "Commodities & Gold": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rohstoffe & Gold"
+          }
+        }
+      }
+    },
+    "Compare Scenarios": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szenarien vergleichen"
+          }
+        }
+      }
+    },
+    "Compare with Your Savings Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit deinem Sparplan vergleichen"
+          }
+        }
+      }
+    },
+    "Compared to Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Vergleich zum Plan"
+          }
+        }
+      }
+    },
+    "Comparison": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vergleich"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiter"
+          }
+        }
+      }
+    },
+    "Continues your plan from today's actual value with the same contributions and expected return.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Führt deinen Plan ab dem heutigen Depotwert mit gleichen Einzahlungen und erwarteter Rendite fort."
+          }
+        }
+      }
+    },
+    "Contributions are pre-tax, so the entire withdrawal is taxed as ordinary income in retirement. Annual contribution limits apply. This is a simplification, not tax advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einzahlungen erfolgen vor Steuern, daher wird die gesamte Auszahlung im Ruhestand als Einkommen versteuert. Es gelten jährliche Einzahlungsgrenzen. Dies ist eine Vereinfachung und keine Steuerberatung."
+          }
+        }
+      }
+    },
+    "Cost Check": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kosten-Check"
+          }
+        }
+      }
+    },
+    "Costs per Year Today": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kosten pro Jahr aktuell"
+          }
+        }
+      }
+    },
+    "Costs Until Plan End": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kosten bis Planende"
+          }
+        }
+      }
+    },
+    "CSV Export": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV-Export"
+          }
+        }
+      }
+    },
+    "Currency": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Währung"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        }
+      }
+    },
+    "Defaults match Germany: 26.375% (incl. solidarity surcharge), 30% partial exemption for equity ETFs and a 1,000 € yearly allowance. With the Vorabpauschale, accumulating ETFs are taxed a little every year based on the base rate published by the Federal Ministry of Finance; the rest is taxed when selling. This is a simplification, not tax advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Standardwerte entsprechen Deutschland: 26,375 % (inkl. Solidaritätszuschlag), 30 % Teilfreistellung für Aktien-ETFs und 1.000 € Sparerpauschbetrag pro Jahr. Mit der Vorabpauschale werden thesaurierende ETFs jedes Jahr anhand des vom Bundesfinanzministerium veröffentlichten Basiszinses ein wenig besteuert; der Rest beim Verkauf. Dies ist eine Vereinfachung und keine Steuerberatung."
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Löschen"
+          }
+        }
+      }
+    },
+    "Delete Position": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position löschen"
+          }
+        }
+      }
+    },
+    "Details": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Details"
+          }
+        }
+      }
+    },
+    "Distribution": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausschüttung"
+          }
+        }
+      }
+    },
+    "Dividends": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dividenden"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        }
+      }
+    },
+    "Drag across the chart to see your portfolio in any year.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fahre über das Diagramm, um dein Depot in jedem Jahr zu sehen."
+          }
+        }
+      }
+    },
+    "Drag across the chart to see your portfolio year by year, including milestones.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fahre über das Diagramm, um dein Depot Jahr für Jahr zu sehen – inklusive Meilensteinen."
+          }
+        }
+      }
+    },
+    "Duplicate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duplizieren"
+          }
+        }
+      }
+    },
+    "Duration": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laufzeit"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearbeiten"
+          }
+        }
+      }
+    },
+    "Edit Position": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position bearbeiten"
+          }
+        }
+      }
+    },
+    "Emerald": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smaragd"
+          }
+        }
+      }
+    },
+    "Emerging Markets": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schwellenländer"
+          }
+        }
+      }
+    },
+    "Enter shares and price, or just the total value of the position. The cost basis is what you paid in total, including fees.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trag Stückzahl und Kurs ein oder nur den Gesamtwert der Position. Der Einstandswert ist, was du insgesamt bezahlt hast, inklusive Gebühren."
+          }
+        }
+      }
+    },
+    "Enter when you started and how much you save — see whether you're ahead or behind.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib an, wann du gestartet bist und wie viel du sparst – und sieh, ob du vor oder hinter dem Plan liegst."
+          }
+        }
+      }
+    },
+    "Estimated from your savings plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geschätzt aus deinem Sparplan"
+          }
+        }
+      }
+    },
+    "ETF Savings Plan.csv": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ETF-Sparplan.csv"
+          }
+        }
+      }
+    },
+    "European Equities": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktien Europa"
+          }
+        }
+      }
+    },
+    "Expanded": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgeklappt"
+          }
+        }
+      }
+    },
+    "Expected Final Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erwartetes Endkapital"
+          }
+        }
+      }
+    },
+    "Expected Return": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erwartete Rendite"
+          }
+        }
+      }
+    },
+    "Expected Return (%)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erwartete Rendite (%)"
+          }
+        }
+      }
+    },
+    "Explore Your Growth": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdecke dein Wachstum"
+          }
+        }
+      }
+    },
+    "Export CSV": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als CSV exportieren"
+          }
+        }
+      }
+    },
+    "Export the portfolio overview from your broker or bank as a CSV file and import it here. Prices can be entered per position.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportiere die Depotübersicht deines Brokers oder deiner Bank als CSV-Datei und importiere sie hier. Kurse kannst du pro Position eintragen."
+          }
+        }
+      }
+    },
+    "Fast, native and designed for iOS — with interactive charts and haptic feedback.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schnell, nativ und gemacht für iOS – mit interaktiven Diagrammen und haptischem Feedback."
+          }
+        }
+      }
+    },
+    "Fewer Options": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weniger Optionen"
+          }
+        }
+      }
+    },
+    "Final Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endkapital"
+          }
+        }
+      }
+    },
+    "Final Value · ^[%lld Year](inflect: true)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endkapital · ^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "Find out how long your savings last when you withdraw a monthly amount in retirement — including returns and rising withdrawals.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finde heraus, wie lange dein Vermögen reicht, wenn du im Ruhestand monatlich Geld entnimmst – inklusive Rendite und steigender Entnahmen."
+          }
+        }
+      }
+    },
+    "Find out how much you need to save each month to reach your target.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finde heraus, wie viel du monatlich sparen musst, um dein Ziel zu erreichen."
+          }
+        }
+      }
+    },
+    "First purchase on %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erster Kauf am %@."
+          }
+        }
+      }
+    },
+    "Forecast": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prognose"
+          }
+        }
+      }
+    },
+    "Found %@ (%@).": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gefunden: %@ (%@)."
+          }
+        }
+      }
+    },
+    "Found %lld Positions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Positionen gefunden"
+          }
+        }
+      }
+    },
+    "From Year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ab Jahr"
+          }
+        }
+      }
+    },
+    "Fund Costs": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fondskosten"
+          }
+        }
+      }
+    },
+    "Fund Costs (TER)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fondskosten (TER)"
+          }
+        }
+      }
+    },
+    "Gain So Far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn bisher"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allgemein"
+          }
+        }
+      }
+    },
+    "Germany": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deutschland"
+          }
+        }
+      }
+    },
+    "Goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparziel"
+          }
+        }
+      }
+    },
+    "Goal %@ · ^[%lld Year](inflect: true)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel %@ · ^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "Graphite": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Graphit"
+          }
+        }
+      }
+    },
+    "Group By": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gruppieren nach"
+          }
+        }
+      }
+    },
+    "Growth chart": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wachstumsdiagramm"
+          }
+        }
+      }
+    },
+    "High": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoch"
+          }
+        }
+      }
+    },
+    "How much yearly returns fluctuate. Broad equity ETFs like the MSCI World have historically shown around 15%.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie stark die jährlichen Renditen schwanken. Breite Aktien-ETFs wie der MSCI World lagen historisch bei etwa 15 %."
+          }
+        }
+      }
+    },
+    "How's Your Portfolio Doing?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie läuft dein Depot?"
+          }
+        }
+      }
+    },
+    "Import": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importieren"
+          }
+        }
+      }
+    },
+    "Import Failed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import fehlgeschlagen"
+          }
+        }
+      }
+    },
+    "Import from Broker (CSV)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vom Broker importieren (CSV)"
+          }
+        }
+      }
+    },
+    "Import from Your Broker": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vom Broker importieren"
+          }
+        }
+      }
+    },
+    "Import from your broker, automatic prices": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import vom Broker, automatische Kurse"
+          }
+        }
+      }
+    },
+    "Import your positions from your broker or record your portfolio value from time to time to follow how it develops.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importiere deine Positionen vom Broker oder trag ab und zu deinen Depotwert ein, um die Entwicklung zu verfolgen."
+          }
+        }
+      }
+    },
+    "Import your positions from your broker to see what you really paid in.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importiere deine Positionen vom Broker, um zu sehen, was du wirklich eingezahlt hast."
+          }
+        }
+      }
+    },
+    "In Today's Money": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heutige Kaufkraft"
+          }
+        }
+      }
+    },
+    "In Today's Money (%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heutige Kaufkraft (%@)"
+          }
+        }
+      }
+    },
+    "Income Tax Rate in Retirement": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einkommensteuersatz im Ruhestand"
+          }
+        }
+      }
+    },
+    "Indefinitely": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbegrenzt"
+          }
+        }
+      }
+    },
+    "Indigo": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indigo"
+          }
+        }
+      }
+    },
+    "Inflation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inflation"
+          }
+        }
+      }
+    },
+    "Inflation %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inflation %@"
+          }
+        }
+      }
+    },
+    "Initial Investment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Startkapital"
+          }
+        }
+      }
+    },
+    "International": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "International"
+          }
+        }
+      }
+    },
+    "Invested": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingezahlt"
+          }
+        }
+      }
+    },
+    "Invested (%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingezahlt (%@)"
+          }
+        }
+      }
+    },
+    "Invested %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingezahlt %@"
+          }
+        }
+      }
+    },
+    "Investment Returns": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite"
+          }
+        }
+      }
+    },
+    "ISIN": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ISIN"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprache"
+          }
+        }
+      }
+    },
+    "Last 12 Months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte 12 Monate"
+          }
+        }
+      }
+    },
+    "Long-term capital gains are taxed at 0%, 15% or 20% depending on your income, plus state tax. Dividends taxed along the way are not modeled. This is a simplification, not tax advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langfristige Kursgewinne werden je nach Einkommen mit 0 %, 15 % oder 20 % besteuert, zuzüglich Bundesstaat-Steuer. Laufend besteuerte Dividenden werden nicht berücksichtigt. Dies ist eine Vereinfachung und keine Steuerberatung."
+          }
+        }
+      }
+    },
+    "Long-Term Capital Gains Rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuersatz Long-Term Capital Gains"
+          }
+        }
+      }
+    },
+    "Look Up": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suchen"
+          }
+        }
+      }
+    },
+    "Low": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niedrig"
+          }
+        }
+      }
+    },
+    "Make the app yours with seven color worlds": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mach die App zu deiner mit sieben Farbwelten"
+          }
+        }
+      }
+    },
+    "Manage Subscription": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abo verwalten"
+          }
+        }
+      }
+    },
+    "Market Fluctuations": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marktschwankungen"
+          }
+        }
+      }
+    },
+    "Milestone Reached!": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meilenstein erreicht!"
+          }
+        }
+      }
+    },
+    "Milestones": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meilensteine"
+          }
+        }
+      }
+    },
+    "Monthly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatlich"
+          }
+        }
+      }
+    },
+    "Monthly Contribution": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatliche Sparrate"
+          }
+        }
+      }
+    },
+    "Monthly Reminder": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatliche Erinnerung"
+          }
+        }
+      }
+    },
+    "Monthly Savings Needed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benötigte Sparrate pro Monat"
+          }
+        }
+      }
+    },
+    "Monthly Withdrawal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatliche Entnahme"
+          }
+        }
+      }
+    },
+    "More": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehr"
+          }
+        }
+      }
+    },
+    "More Options": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Optionen"
+          }
+        }
+      }
+    },
+    "My ETF Savings Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mein ETF-Sparplan"
+          }
+        }
+      }
+    },
+    "My ETF savings plan\nInitial investment: %@\nMonthly: %@\nDuration: %lld years at %@\n\nFinal value: %@\nInvested: %@\nReturns: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mein ETF-Sparplan\nStartkapital: %@\nMonatlich: %@\nLaufzeit: %lld Jahre bei %@\n\nEndkapital: %@\nEingezahlt: %@\nRendite: %@"
+          }
+        }
+      }
+    },
+    "My Portfolio": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mein Depot"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Name, e.g. MSCI World": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name, z. B. MSCI World"
+          }
+        }
+      }
+    },
+    "Next contribution: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nächste Sparrate: %@"
+          }
+        }
+      }
+    },
+    "No Ads": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Werbung"
+          }
+        }
+      }
+    },
+    "No ads, taxes, payout plan, market range and more": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Werbung, Steuern, Entnahmeplan, Bandbreite und mehr"
+          }
+        }
+      }
+    },
+    "No listing was found for this ISIN.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für diese ISIN wurde kein Börsenplatz gefunden."
+          }
+        }
+      }
+    },
+    "No portfolio table was found. Export the portfolio overview from your broker as CSV.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Depottabelle gefunden. Exportiere die Depotübersicht deines Brokers als CSV."
+          }
+        }
+      }
+    },
+    "No Scenarios": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Szenarien"
+          }
+        }
+      }
+    },
+    "Nominal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nominal"
+          }
+        }
+      }
+    },
+    "Note, e.g. Vanguard FTSE All-World": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notiz, z. B. Vanguard FTSE All-World"
+          }
+        }
+      }
+    },
+    "Ocean": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ozean"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Open Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechner öffnen"
+          }
+        }
+      }
+    },
+    "Open in Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Rechner öffnen"
+          }
+        }
+      }
+    },
+    "Optimistic": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Optimistisch"
+          }
+        }
+      }
+    },
+    "Other": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonstiges"
+          }
+        }
+      }
+    },
+    "Paid In (Cost Basis)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingezahlt (Einstandswert)"
+          }
+        }
+      }
+    },
+    "Paid In So Far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher eingezahlt"
+          }
+        }
+      }
+    },
+    "Paid in: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingezahlt: %@"
+          }
+        }
+      }
+    },
+    "Partial Exemption": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teilfreistellung"
+          }
+        }
+      }
+    },
+    "Pause": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pause"
+          }
+        }
+      }
+    },
+    "Payout": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entnahme"
+          }
+        }
+      }
+    },
+    "Payout Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entnahmeplan"
+          }
+        }
+      }
+    },
+    "Per Day": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Tag"
+          }
+        }
+      }
+    },
+    "Per Month on Average": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Monat im Schnitt"
+          }
+        }
+      }
+    },
+    "Per month without using up capital": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Monat, ohne das Kapital aufzubrauchen"
+          }
+        }
+      }
+    },
+    "Per Year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Jahr"
+          }
+        }
+      }
+    },
+    "Performance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entwicklung"
+          }
+        }
+      }
+    },
+    "Perpetual Withdrawal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ewige Rente"
+          }
+        }
+      }
+    },
+    "Pessimistic": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pessimistisch"
+          }
+        }
+      }
+    },
+    "Pessimistic and optimistic outcomes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pessimistische und optimistische Ergebnisse"
+          }
+        }
+      }
+    },
+    "Pessimistic and optimistic outcomes from 500 simulations": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pessimistische und optimistische Ergebnisse aus 500 Simulationen"
+          }
+        }
+      }
+    },
+    "Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan"
+          }
+        }
+      }
+    },
+    "Plan from %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan vom %@"
+          }
+        }
+      }
+    },
+    "Plan vs. actual": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan und Ist"
+          }
+        }
+      }
+    },
+    "Plan Your Payout": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entnahme planen"
+          }
+        }
+      }
+    },
+    "Plan your wealth with more precision — and without ads.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plane dein Vermögen genauer – und ganz ohne Werbung."
+          }
+        }
+      }
+    },
+    "Planned Contributions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geplante Einzahlungen"
+          }
+        }
+      }
+    },
+    "Planned Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Planwert"
+          }
+        }
+      }
+    },
+    "Portfolio": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Depot"
+          }
+        }
+      }
+    },
+    "Portfolio Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Depotwert"
+          }
+        }
+      }
+    },
+    "Position": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position"
+          }
+        }
+      }
+    },
+    "Position Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Positionswert"
+          }
+        }
+      }
+    },
+    "Positions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Positionen"
+          }
+        }
+      }
+    },
+    "Positions & Allocation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Positionen & Aufteilung"
+          }
+        }
+      }
+    },
+    "Positions with the same ISIN are always updated. The total is recorded as today's portfolio value.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Positionen mit gleicher ISIN werden immer aktualisiert. Die Summe wird als heutiger Depotwert gespeichert."
+          }
+        }
+      }
+    },
+    "Premium": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium"
+          }
+        }
+      }
+    },
+    "Premium Active": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium aktiv"
+          }
+        }
+      }
+    },
+    "Premium feature": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium-Funktion"
+          }
+        }
+      }
+    },
+    "Premium trial until %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium-Test bis %@"
+          }
+        }
+      }
+    },
+    "Price per Share": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurs pro Stück"
+          }
+        }
+      }
+    },
+    "Prices are delayed and updated automatically. Last update: %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurse sind verzögert und werden automatisch aktualisiert. Zuletzt: %@."
+          }
+        }
+      }
+    },
+    "Prices couldn't be loaded. Check your internet connection.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurse konnten nicht geladen werden. Prüfe deine Internetverbindung."
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datenschutz"
+          }
+        }
+      }
+    },
+    "PRO": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PRO"
+          }
+        }
+      }
+    },
+    "Purchasing Power": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaufkraft"
+          }
+        }
+      }
+    },
+    "Qualified withdrawals from Roth accounts are tax-free, since contributions were made with after-tax money. Annual contribution limits apply. This is a simplification, not tax advice.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qualifizierte Auszahlungen aus Roth-Konten sind steuerfrei, da bereits versteuertes Geld eingezahlt wurde. Es gelten jährliche Einzahlungsgrenzen. Dies ist eine Vereinfachung und keine Steuerberatung."
+          }
+        }
+      }
+    },
+    "Range": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bandbreite"
+          }
+        }
+      }
+    },
+    "Range (80% of simulations)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bandbreite (80 % der Simulationen)"
+          }
+        }
+      }
+    },
+    "Range of Outcomes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bandbreite der Ergebnisse"
+          }
+        }
+      }
+    },
+    "Rate the App": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App bewerten"
+          }
+        }
+      }
+    },
+    "Reach Your Goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreiche dein Ziel"
+          }
+        }
+      }
+    },
+    "Real Estate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Immobilien"
+          }
+        }
+      }
+    },
+    "Rebuilt for iPhone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neu gebaut fürs iPhone"
+          }
+        }
+      }
+    },
+    "Record your current portfolio value and see whether you're on track.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trag deinen aktuellen Depotwert ein und sieh, ob du im Plan liegst."
+          }
+        }
+      }
+    },
+    "Recorded Values": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfasste Werte"
+          }
+        }
+      }
+    },
+    "Remove Ads": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werbung entfernen"
+          }
+        }
+      }
+    },
+    "Remove Comparison": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vergleich entfernen"
+          }
+        }
+      }
+    },
+    "Replace Existing Positions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bestehende Positionen ersetzen"
+          }
+        }
+      }
+    },
+    "Reset all values to the defaults?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Werte auf die Standardwerte zurücksetzen?"
+          }
+        }
+      }
+    },
+    "Reset to Defaults": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf Standardwerte zurücksetzen"
+          }
+        }
+      }
+    },
+    "Reset Values": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werte zurücksetzen"
+          }
+        }
+      }
+    },
+    "Restore Purchases": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Käufe wiederherstellen"
+          }
+        }
+      }
+    },
+    "Return": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite"
+          }
+        }
+      }
+    },
+    "Return During Payout": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite während Entnahme"
+          }
+        }
+      }
+    },
+    "returns": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite"
+          }
+        }
+      }
+    },
+    "Returns": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite"
+          }
+        }
+      }
+    },
+    "Returns (%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendite (%@)"
+          }
+        }
+      }
+    },
+    "Returns cover your withdrawals": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Rendite deckt deine Entnahmen"
+          }
+        }
+      }
+    },
+    "Rosé": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rosé"
+          }
+        }
+      }
+    },
+    "Roth IRA / Roth 401(k)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Roth IRA / Roth 401(k)"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichern"
+          }
+        }
+      }
+    },
+    "Save a plan from the calculator to compare different strategies here.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichere einen Plan im Rechner, um hier verschiedene Strategien zu vergleichen."
+          }
+        }
+      }
+    },
+    "Save and compare as many plans as you like": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beliebig viele Pläne sichern und vergleichen"
+          }
+        }
+      }
+    },
+    "Save as Scenario": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als Szenario sichern"
+          }
+        }
+      }
+    },
+    "Save different plans and compare them side by side.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichere verschiedene Pläne und vergleiche sie direkt miteinander."
+          }
+        }
+      }
+    },
+    "Save for ${target} in ${years} years": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für ${target} in ${years} Jahren sparen"
+          }
+        }
+      }
+    },
+    "Save Scenario": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szenario sichern"
+          }
+        }
+      }
+    },
+    "Save this plan to compare it with other scenarios.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichere diesen Plan, um ihn mit anderen Szenarien zu vergleichen."
+          }
+        }
+      }
+    },
+    "Saving %@ per month for %lld years, you'll have about %@ — including %@ in returns.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit %@ pro Monat über %lld Jahre hast du etwa %@ – davon %@ Rendite."
+          }
+        }
+      }
+    },
+    "Savings Goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparziel"
+          }
+        }
+      }
+    },
+    "Savings Pause": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparpause"
+          }
+        }
+      }
+    },
+    "Savings Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparplan"
+          }
+        }
+      }
+    },
+    "Savings Plan Running For": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparplan läuft seit"
+          }
+        }
+      }
+    },
+    "Scenario": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szenario"
+          }
+        }
+      }
+    },
+    "Scenarios": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szenarien"
+          }
+        }
+      }
+    },
+    "See how long your money lasts in retirement": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sieh, wie lange dein Geld im Ruhestand reicht"
+          }
+        }
+      }
+    },
+    "See Your Wealth Grow": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sieh dein Vermögen wachsen"
+          }
+        }
+      }
+    },
+    "Series": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reihe"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen"
+          }
+        }
+      }
+    },
+    "Share": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teilen"
+          }
+        }
+      }
+    },
+    "Share as Image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als Bild teilen"
+          }
+        }
+      }
+    },
+    "Share as Text": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als Text teilen"
+          }
+        }
+      }
+    },
+    "Share Image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bild teilen"
+          }
+        }
+      }
+    },
+    "Share image preview": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorschau des Bildes"
+          }
+        }
+      }
+    },
+    "Share of Returns": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renditeanteil"
+          }
+        }
+      }
+    },
+    "Share Your Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teile deinen Plan"
+          }
+        }
+      }
+    },
+    "Shares": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stück"
+          }
+        }
+      }
+    },
+    "Show After-Tax Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert nach Steuern zeigen"
+          }
+        }
+      }
+    },
+    "Show Welcome on Next Launch": {
+      "extractionState": "stale",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Willkommen beim nächsten Start zeigen"
+          }
+        }
+      }
+    },
+    "Show your result after capital gains tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ergebnis nach Abgeltungssteuer anzeigen"
+          }
+        }
+      }
+    },
+    "Simulate Premium": {
+      "extractionState": "stale",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium simulieren"
+          }
+        }
+      }
+    },
+    "Simulation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Simulation"
+          }
+        }
+      }
+    },
+    "Small Caps": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nebenwerte (Small Caps)"
+          }
+        }
+      }
+    },
+    "Special payment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonderzahlung"
+          }
+        }
+      }
+    },
+    "Special Payments & Pauses": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonderzahlungen & Pausen"
+          }
+        }
+      }
+    },
+    "Special payments are invested at the end of each year, e.g. a bonus. During a pause, no contributions are made — the portfolio keeps growing.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonderzahlungen werden jeweils zum Jahresende investiert, z. B. Weihnachtsgeld. In einer Pause wird nichts eingezahlt – das Depot wächst trotzdem weiter."
+          }
+        }
+      }
+    },
+    "Started On": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestartet am"
+          }
+        }
+      }
+    },
+    "State Tax Rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuersatz Bundesstaat"
+          }
+        }
+      }
+    },
+    "Step %lld of 2": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schritt %lld von 2"
+          }
+        }
+      }
+    },
+    "Summary": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übersicht"
+          }
+        }
+      }
+    },
+    "Sunset": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonnenuntergang"
+          }
+        }
+      }
+    },
+    "Switches between nominal values and today's purchasing power": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wechselt zwischen nominalen Werten und heutiger Kaufkraft"
+          }
+        }
+      }
+    },
+    "Take the yearly table to Numbers or Excel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahrestabelle in Numbers oder Excel öffnen"
+          }
+        }
+      }
+    },
+    "Target": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel"
+          }
+        }
+      }
+    },
+    "Target Allocation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel-Aufteilung"
+          }
+        }
+      }
+    },
+    "Target Amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zielbetrag"
+          }
+        }
+      }
+    },
+    "Target Share": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zielanteil"
+          }
+        }
+      }
+    },
+    "Tax %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuer %@"
+          }
+        }
+      }
+    },
+    "Tax Rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuersatz"
+          }
+        }
+      }
+    },
+    "Tax Rate on Gains": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuersatz auf Gewinne"
+          }
+        }
+      }
+    },
+    "Tax System": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuersystem"
+          }
+        }
+      }
+    },
+    "Tax-Free Allowance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freibetrag"
+          }
+        }
+      }
+    },
+    "Taxable Brokerage": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normales Depot (Taxable)"
+          }
+        }
+      }
+    },
+    "Taxes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuern"
+          }
+        }
+      }
+    },
+    "Taxes for Germany, the US and other countries": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuern für Deutschland, die USA und weitere Länder"
+          }
+        }
+      }
+    },
+    "Taxes on Withdrawal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuern bei Auszahlung"
+          }
+        }
+      }
+    },
+    "Taxes, payout plan, market fluctuations, color themes — and no ads.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuern, Entnahmeplan, Marktschwankungen, Farbthemen – und keine Werbung."
+          }
+        }
+      }
+    },
+    "TER %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TER %@"
+          }
+        }
+      }
+    },
+    "Thank you for your support!": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Danke für deine Unterstützung!"
+          }
+        }
+      }
+    },
+    "The app follows your device language. You can choose a different language for this app in the Settings app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die App verwendet die Sprache deines Geräts. In der App „Einstellungen“ kannst du für diese App eine andere Sprache wählen."
+          }
+        }
+      }
+    },
+    "The file contains no positions with a value.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei enthält keine Positionen mit Wert."
+          }
+        }
+      }
+    },
+    "The file couldn't be read.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei konnte nicht gelesen werden."
+          }
+        }
+      }
+    },
+    "The reminder to record your portfolio value arrives on the 1st of every month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Erinnerung, deinen Depotwert einzutragen, kommt jeweils am 1. des Monats."
+          }
+        }
+      }
+    },
+    "Thereof on Sale": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Davon beim Verkauf"
+          }
+        }
+      }
+    },
+    "Thereof Yearly (Vorabpauschale)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Davon jährlich (Vorabpauschale)"
+          }
+        }
+      }
+    },
+    "This calculation is a simplified model based on a constant return and is not investment advice. Past performance is no guarantee of future results.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Berechnung ist ein vereinfachtes Modell mit konstanter Rendite und keine Anlageberatung. Vergangene Wertentwicklungen sind kein verlässlicher Indikator für künftige Ergebnisse."
+          }
+        }
+      }
+    },
+    "This Year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieses Jahr"
+          }
+        }
+      }
+    },
+    "To reach %@ in %lld years, save about %@ per month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um %@ in %lld Jahren zu erreichen, spare etwa %@ pro Monat."
+          }
+        }
+      }
+    },
+    "Total": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesamt"
+          }
+        }
+      }
+    },
+    "Total Invested": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Summe der Einzahlungen"
+          }
+        }
+      }
+    },
+    "Total Withdrawn": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Summe der Entnahmen"
+          }
+        }
+      }
+    },
+    "Total: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Summe: %@"
+          }
+        }
+      }
+    },
+    "Track distributions and yearly income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausschüttungen und Jahreseinkommen verfolgen"
+          }
+        }
+      }
+    },
+    "Track Your Portfolio": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfolge dein Depot"
+          }
+        }
+      }
+    },
+    "Track your real portfolio": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfolge dein echtes Depot"
+          }
+        }
+      }
+    },
+    "Tracking Streak": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eintrags-Serie"
+          }
+        }
+      }
+    },
+    "Traditional IRA / 401(k)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traditional IRA / 401(k)"
+          }
+        }
+      }
+    },
+    "Turn your plan into a beautiful image for messages or social media.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mach aus deinem Plan ein schönes Bild für Nachrichten oder Social Media."
+          }
+        }
+      }
+    },
+    "Typical": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typisch"
+          }
+        }
+      }
+    },
+    "United States": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "USA"
+          }
+        }
+      }
+    },
+    "Unlimited Scenarios": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbegrenzte Szenarien"
+          }
+        }
+      }
+    },
+    "Unlock Premium": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premium freischalten"
+          }
+        }
+      }
+    },
+    "Until %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis %@"
+          }
+        }
+      }
+    },
+    "Untitled Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbenannter Plan"
+          }
+        }
+      }
+    },
+    "Update Base Rate Automatically": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basiszins automatisch aktualisieren"
+          }
+        }
+      }
+    },
+    "Update Prices": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurse aktualisieren"
+          }
+        }
+      }
+    },
+    "US Equities": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktien USA"
+          }
+        }
+      }
+    },
+    "Use in Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Rechner verwenden"
+          }
+        }
+      }
+    },
+    "Use Perpetual Withdrawal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ewige Rente übernehmen"
+          }
+        }
+      }
+    },
+    "Use Values from Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werte aus dem Rechner übernehmen"
+          }
+        }
+      }
+    },
+    "Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert"
+          }
+        }
+      }
+    },
+    "Value (%@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert (%@)"
+          }
+        }
+      }
+    },
+    "Value after Year %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert nach Jahr %lld"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        }
+      }
+    },
+    "Violet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Violett"
+          }
+        }
+      }
+    },
+    "Volatility": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volatilität"
+          }
+        }
+      }
+    },
+    "Vorabpauschale %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorabpauschale %@"
+          }
+        }
+      }
+    },
+    "vs. plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ggü. Plan"
+          }
+        }
+      }
+    },
+    "Watch an Ad to Try Premium for 1 Hour": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werbung ansehen und Premium 1 Stunde testen"
+          }
+        }
+      }
+    },
+    "Weighted TER": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewichtete TER"
+          }
+        }
+      }
+    },
+    "Where your real portfolio ends up": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wo dein echtes Depot landet"
+          }
+        }
+      }
+    },
+    "Withdrawals are taken at the start of each month; the remaining capital keeps earning the expected return. Taxes are not considered.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entnahmen erfolgen jeweils zu Monatsbeginn; das restliche Kapital erzielt weiter die erwartete Rendite. Steuern werden nicht berücksichtigt."
+          }
+        }
+      }
+    },
+    "World Equities": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktien Welt"
+          }
+        }
+      }
+    },
+    "World ETF": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welt-ETF"
+          }
+        }
+      }
+    },
+    "Y%lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "J%lld"
+          }
+        }
+      }
+    },
+    "Year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahr"
+          }
+        }
+      }
+    },
+    "Year %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahr %lld"
+          }
+        }
+      }
+    },
+    "Year %lld · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahr %lld · %@"
+          }
+        }
+      }
+    },
+    "Year %lld in Today's Money": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahr %lld in heutiger Kaufkraft"
+          }
+        }
+      }
+    },
+    "Year by Year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahresübersicht"
+          }
+        }
+      }
+    },
+    "Yearly Increase": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jährliche Dynamik"
+          }
+        }
+      }
+    },
+    "Yearly Increase raises your monthly contribution once a year. Fund costs are deducted from the expected return.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Dynamik erhöht deine monatliche Sparrate einmal pro Jahr. Fondskosten werden von der erwarteten Rendite abgezogen."
+          }
+        }
+      }
+    },
+    "Yearly Special Payment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jährliche Sonderzahlung"
+          }
+        }
+      }
+    },
+    "Years": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahre"
+          }
+        }
+      }
+    },
+    "Your Capital Lasts": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Kapital reicht"
+          }
+        }
+      }
+    },
+    "Your Goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Ziel"
+          }
+        }
+      }
+    },
+    "Your initial investment alone reaches this goal.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Startkapital allein erreicht dieses Ziel."
+          }
+        }
+      }
+    },
+    "Your next monthly contribution of %@ is split so you move towards your targets without selling.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine nächste Sparrate von %@ wird so aufgeteilt, dass du dich deinen Zielen näherst, ohne zu verkaufen."
+          }
+        }
+      }
+    },
+    "Your Payout": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Entnahme"
+          }
+        }
+      }
+    },
+    "Your Plan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Plan"
+          }
+        }
+      }
+    },
+    "Your portfolio has passed %@. Keep it up!": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Depot hat %@ überschritten. Weiter so!"
+          }
+        }
+      }
+    },
+    "Your real savings plan — independent of the calculator, so you can keep playing with numbers there. If you imported from your broker, start date and monthly amount are suggested from your purchases.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein echter Sparplan – unabhängig vom Rechner, damit du dort weiter frei mit Zahlen spielen kannst. Wenn du vom Broker importiert hast, werden Startdatum und Monatsbetrag aus deinen Käufen vorgeschlagen."
+          }
+        }
+      }
+    },
+    "Your targets add up to %@. Set them so they add up to %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Ziele ergeben zusammen %@. Stell sie so ein, dass sie %@ ergeben."
+          }
+        }
+      }
+    },
+    "Export a CSV in your broker's app and share it with Owlvest — your positions are added automatically.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportiere in der App deines Brokers eine CSV-Datei und teile sie mit Owlvest – deine Positionen werden automatisch übernommen."
+          }
+        }
+      }
+    },
+    "Owlvest Premium": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Owlvest Premium"
+          }
+        }
+      }
+    },
+    "Calculated with Owlvest": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnet mit Owlvest"
+          }
+        }
+      }
+    },
+    "Welcome to Owlvest": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Willkommen bei Owlvest"
+          }
+        }
+      }
+    },
+    "Owlvest": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Owlvest"
+          }
+        }
+      },
+      "shouldTranslate": false
+    },
+    "Formerly ETF Calculator – completely rebuilt.": {
+      "comment": "Welcome screen subtitle under the app name, for users who knew the old name",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Früher ETF-Rechner – komplett neu gebaut."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

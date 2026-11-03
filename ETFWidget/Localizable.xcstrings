@@ -1,0 +1,151 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ in %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ im Jahr %@"
+          }
+        }
+      }
+    },
+    "%@ in %lld yrs" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ in %lld J."
+          }
+        }
+      }
+    },
+    "%@/mo · ^[%lld year](inflect: true)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@/Monat · ^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "^[%lld Year](inflect: true)" : {
+
+    },
+    "+%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@"
+          }
+        }
+      }
+    },
+    "ETF Plan" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ETF-Plan"
+          }
+        }
+      }
+    },
+    "Final Value" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endkapital"
+          }
+        }
+      }
+    },
+    "in ^[%lld year](inflect: true)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "in ^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "In ^[%lld year](inflect: true)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In ^[%lld Jahr](inflect: true)"
+          }
+        }
+      }
+    },
+    "Open the app to unlock." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne die App zum Freischalten."
+          }
+        }
+      }
+    },
+    "Value" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wert"
+          }
+        }
+      }
+    },
+    "Widgets are a Premium feature" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets sind eine Premium-Funktion"
+          }
+        }
+      }
+    },
+    "Widgets require Premium" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets erfordern Premium"
+          }
+        }
+      }
+    },
+    "Year" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jahr"
+          }
+        }
+      }
+    },
+    "Your final value, growth curve and next milestone at a glance." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endkapital, Wachstumskurve und nächster Meilenstein auf einen Blick."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

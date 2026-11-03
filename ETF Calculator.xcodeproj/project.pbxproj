@@ -3,36 +3,161 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B90C8B3328EB4AB1003D826A /* android-chrome-512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */; };
-		B9B6BB3728E8D686006EA228 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3628E8D686006EA228 /* AppDelegate.swift */; };
-		B9B6BB3928E8D686006EA228 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3828E8D686006EA228 /* SceneDelegate.swift */; };
-		B9B6BB3B28E8D686006EA228 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B6BB3A28E8D686006EA228 /* ViewController.swift */; };
-		B9B6BB3E28E8D686006EA228 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB3C28E8D686006EA228 /* Main.storyboard */; };
+		6F7E8B253097F3EB00B9DCFC /* SavingsPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B243097F3EB00B9DCFC /* SavingsPlan.swift */; };
+		6F7E8B273097F3F900B9DCFC /* Scenario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B263097F3F900B9DCFC /* Scenario.swift */; };
+		6F7E8B293097F3FB00B9DCFC /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B283097F3FB00B9DCFC /* CalculatorModel.swift */; };
+		6F7E8B2B3097F40000B9DCFC /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B2A3097F40000B9DCFC /* Currency.swift */; };
+		6F7E8B2E3097F40500B9DCFC /* StoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B2D3097F40500B9DCFC /* StoreManager.swift */; };
+		6F7E8B303097F41D00B9DCFC /* AdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B2F3097F41D00B9DCFC /* AdsManager.swift */; };
+		6F7E8B333097F46F00B9DCFC /* ProjectionViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B323097F46F00B9DCFC /* ProjectionViews.swift */; };
+		6F7E8B353097F47A00B9DCFC /* InputRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B343097F47A00B9DCFC /* InputRows.swift */; };
+		6F7E8B373097F47C00B9DCFC /* AppRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B363097F47C00B9DCFC /* AppRouter.swift */; };
+		6F7E8B393097F48900B9DCFC /* CalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B383097F48900B9DCFC /* CalculatorView.swift */; };
+		6F7E8B3B3097F4A200B9DCFC /* GoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B3A3097F4A200B9DCFC /* GoalView.swift */; };
+		6F7E8B3D3097F4B200B9DCFC /* ScenariosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B3C3097F4B200B9DCFC /* ScenariosView.swift */; };
+		6F7E8B3F3097F4B800B9DCFC /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B3E3097F4B800B9DCFC /* PaywallView.swift */; };
+		6F7E8B413097F4C300B9DCFC /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B403097F4C300B9DCFC /* SettingsView.swift */; };
+		6F7E8B433097F4C700B9DCFC /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B423097F4C700B9DCFC /* RootView.swift */; };
+		6F7E8B453097F4C900B9DCFC /* ETFCalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B443097F4C900B9DCFC /* ETFCalculatorApp.swift */; };
+		6F7E8B473097F73300B9DCFC /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 6F7E8B463097F73300B9DCFC /* Localizable.xcstrings */; };
+		6F7E8B493097F76900B9DCFC /* Products.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 6F7E8B483097F76900B9DCFC /* Products.storekit */; };
+		6F7E8B4B3098013300B9DCFC /* Analytics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B4A3098013300B9DCFC /* Analytics.swift */; };
+		6F7E8B4D3098019800B9DCFC /* NativeAdViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B4C3098019800B9DCFC /* NativeAdViews.swift */; };
+		6F7E8B4F309801A400B9DCFC /* ProViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B4E309801A400B9DCFC /* ProViews.swift */; };
+		6F7E8B513098020E00B9DCFC /* PayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B503098020E00B9DCFC /* PayoutView.swift */; };
+		6F7E8B53309893D100B9DCFC /* DesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B52309893D100B9DCFC /* DesignSystem.swift */; };
+		6F7E8B55309897E500B9DCFC /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8B54309897E500B9DCFC /* WelcomeView.swift */; };
+		6F7E8C2D3098A07B00B9DCFC /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8C2C3098A07A00B9DCFC /* AppGroup.swift */; };
+		6F7E8F803098A13700B9DCFC /* PortfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8F7F3098A13700B9DCFC /* PortfolioView.swift */; };
+		6F7E8F823098A16B00B9DCFC /* ShareImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8F813098A16B00B9DCFC /* ShareImageView.swift */; };
+		6F7E8F853098A1D400B9DCFC /* CalculatorIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8F843098A1D400B9DCFC /* CalculatorIntents.swift */; };
+		6F7E8F873098A1E500B9DCFC /* AppShortcuts.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 6F7E8F863098A1E500B9DCFC /* AppShortcuts.xcstrings */; };
+		6F7E8F8E3098A1F100B9DCFC /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F7E8F8D3098A1F100B9DCFC /* WidgetKit.framework */; };
+		6F7E8F903098A1F100B9DCFC /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F7E8F8F3098A1F100B9DCFC /* SwiftUI.framework */; };
+		6F7E8F9B3098A1F400B9DCFC /* ETFWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 6F7E8F8C3098A1F100B9DCFC /* ETFWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		6F7E8FEE3098A24700B9DCFC /* WidgetSync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E8FED3098A24700B9DCFC /* WidgetSync.swift */; };
+		6F7E90763098A5F700B9DCFC /* BaseRateService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E90753098A5F700B9DCFC /* BaseRateService.swift */; };
+		6F7E90783098A60E00B9DCFC /* TaxStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E90773098A60E00B9DCFC /* TaxStore.swift */; };
+		6F7E908E3098A67500B9DCFC /* ReminderService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E908D3098A67500B9DCFC /* ReminderService.swift */; };
+		6F7E90AA3098B7AA00B9DCFC /* PortfolioCSVImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E90A93098B7AA00B9DCFC /* PortfolioCSVImporter.swift */; };
+		6F7E90AF3098B8BC00B9DCFC /* QuoteService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E90AE3098B8BC00B9DCFC /* QuoteService.swift */; };
+		6F7E90B33098B96500B9DCFC /* PortfolioHoldingsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E90B23098B96500B9DCFC /* PortfolioHoldingsViews.swift */; };
+		6F7E91B33098F67200B9DCFC /* Tips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E91B23098F67200B9DCFC /* Tips.swift */; };
+		6F7E91CC30992C3200B9DCFC /* DemoData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7E91CB30992C3200B9DCFC /* DemoData.swift */; };
+		6F7E940A309A606E00B9DCFC /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 6F7E9409309A606E00B9DCFC /* PrivacyInfo.xcprivacy */; };
+		6F7E940E309A649700B9DCFC /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 6F7E940D309A649700B9DCFC /* InfoPlist.xcstrings */; };
+		6FE49EAA28F371760085D6E9 /* android-chrome-512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FE49EA928F371760085D6E9 /* android-chrome-512x512.png */; };
 		B9B6BB4028E8D689006EA228 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB3F28E8D689006EA228 /* Assets.xcassets */; };
-		B9B6BB4328E8D689006EA228 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9B6BB4128E8D689006EA228 /* LaunchScreen.storyboard */; };
 		BE09F95D7A09972C6663D5DF /* Pods_ETF_Calculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		6F7E8F993098A1F400B9DCFC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B9B6BB2B28E8D686006EA228 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6F7E8F8B3098A1F100B9DCFC;
+			remoteInfo = ETFWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6F7E8FA03098A1F400B9DCFC /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				6F7E8F9B3098A1F400B9DCFC /* ETFWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		673E59AD1509B42B33462DC6 /* Pods-ETF Calculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ETF Calculator.release.xcconfig"; path = "Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator.release.xcconfig"; sourceTree = "<group>"; };
+		6F7E8B243097F3EB00B9DCFC /* SavingsPlan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavingsPlan.swift; sourceTree = "<group>"; };
+		6F7E8B263097F3F900B9DCFC /* Scenario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scenario.swift; sourceTree = "<group>"; };
+		6F7E8B283097F3FB00B9DCFC /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
+		6F7E8B2A3097F40000B9DCFC /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
+		6F7E8B2D3097F40500B9DCFC /* StoreManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreManager.swift; sourceTree = "<group>"; };
+		6F7E8B2F3097F41D00B9DCFC /* AdsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsManager.swift; sourceTree = "<group>"; };
+		6F7E8B323097F46F00B9DCFC /* ProjectionViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectionViews.swift; sourceTree = "<group>"; };
+		6F7E8B343097F47A00B9DCFC /* InputRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputRows.swift; sourceTree = "<group>"; };
+		6F7E8B363097F47C00B9DCFC /* AppRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppRouter.swift; sourceTree = "<group>"; };
+		6F7E8B383097F48900B9DCFC /* CalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorView.swift; sourceTree = "<group>"; };
+		6F7E8B3A3097F4A200B9DCFC /* GoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalView.swift; sourceTree = "<group>"; };
+		6F7E8B3C3097F4B200B9DCFC /* ScenariosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenariosView.swift; sourceTree = "<group>"; };
+		6F7E8B3E3097F4B800B9DCFC /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallView.swift; sourceTree = "<group>"; };
+		6F7E8B403097F4C300B9DCFC /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		6F7E8B423097F4C700B9DCFC /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		6F7E8B443097F4C900B9DCFC /* ETFCalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ETFCalculatorApp.swift; sourceTree = "<group>"; };
+		6F7E8B463097F73300B9DCFC /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		6F7E8B483097F76900B9DCFC /* Products.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Products.storekit; sourceTree = "<group>"; };
+		6F7E8B4A3098013300B9DCFC /* Analytics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analytics.swift; sourceTree = "<group>"; };
+		6F7E8B4C3098019800B9DCFC /* NativeAdViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeAdViews.swift; sourceTree = "<group>"; };
+		6F7E8B4E309801A400B9DCFC /* ProViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProViews.swift; sourceTree = "<group>"; };
+		6F7E8B503098020E00B9DCFC /* PayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PayoutView.swift; sourceTree = "<group>"; };
+		6F7E8B52309893D100B9DCFC /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
+		6F7E8B54309897E500B9DCFC /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		6F7E8C2C3098A07A00B9DCFC /* AppGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppGroup.swift; sourceTree = "<group>"; };
+		6F7E8F7E3098A10800B9DCFC /* ETF Calculator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "ETF Calculator.entitlements"; sourceTree = "<group>"; };
+		6F7E8F7F3098A13700B9DCFC /* PortfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioView.swift; sourceTree = "<group>"; };
+		6F7E8F813098A16B00B9DCFC /* ShareImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareImageView.swift; sourceTree = "<group>"; };
+		6F7E8F843098A1D400B9DCFC /* CalculatorIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorIntents.swift; sourceTree = "<group>"; };
+		6F7E8F863098A1E500B9DCFC /* AppShortcuts.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AppShortcuts.xcstrings; sourceTree = "<group>"; };
+		6F7E8F8C3098A1F100B9DCFC /* ETFWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ETFWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F7E8F8D3098A1F100B9DCFC /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = /System/Library/Frameworks/WidgetKit.framework; sourceTree = "<absolute>"; };
+		6F7E8F8F3098A1F100B9DCFC /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = /System/Library/Frameworks/SwiftUI.framework; sourceTree = "<absolute>"; };
+		6F7E8FE63098A20C00B9DCFC /* ETFWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ETFWidgetExtension.entitlements; sourceTree = "<group>"; };
+		6F7E8FED3098A24700B9DCFC /* WidgetSync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetSync.swift; sourceTree = "<group>"; };
+		6F7E90753098A5F700B9DCFC /* BaseRateService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseRateService.swift; sourceTree = "<group>"; };
+		6F7E90773098A60E00B9DCFC /* TaxStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxStore.swift; sourceTree = "<group>"; };
+		6F7E908D3098A67500B9DCFC /* ReminderService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderService.swift; sourceTree = "<group>"; };
+		6F7E90A93098B7AA00B9DCFC /* PortfolioCSVImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioCSVImporter.swift; sourceTree = "<group>"; };
+		6F7E90AE3098B8BC00B9DCFC /* QuoteService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteService.swift; sourceTree = "<group>"; };
+		6F7E90B23098B96500B9DCFC /* PortfolioHoldingsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioHoldingsViews.swift; sourceTree = "<group>"; };
+		6F7E91B23098F67200B9DCFC /* Tips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tips.swift; sourceTree = "<group>"; };
+		6F7E91CB30992C3200B9DCFC /* DemoData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoData.swift; sourceTree = "<group>"; };
+		6F7E9409309A606E00B9DCFC /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		6F7E940D309A649700B9DCFC /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		6FE49EA928F371760085D6E9 /* android-chrome-512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "android-chrome-512x512.png"; path = "../../../Apps/ETF-Calculator/public/img/icons/android-chrome-512x512.png"; sourceTree = "<group>"; };
 		764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ETF_Calculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A723F8E8E1B20EA15BC23B05 /* Pods-ETF Calculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ETF Calculator.debug.xcconfig"; path = "Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator.debug.xcconfig"; sourceTree = "<group>"; };
-		B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "android-chrome-512x512.png"; path = "../../android-chrome-512x512.png"; sourceTree = "<group>"; };
 		B9B6BB3328E8D686006EA228 /* ETF Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ETF Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B9B6BB3628E8D686006EA228 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B9B6BB3828E8D686006EA228 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B9B6BB3A28E8D686006EA228 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B9B6BB3D28E8D686006EA228 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B9B6BB3F28E8D689006EA228 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B9B6BB4228E8D689006EA228 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B9B6BB4428E8D689006EA228 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		6F7E8F9C3098A1F400B9DCFC /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 6F7E8F8B3098A1F100B9DCFC /* ETFWidgetExtension */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		6F7E8F913098A1F200B9DCFC /* ETFWidget */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (6F7E8F9C3098A1F400B9DCFC /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = ETFWidget; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXFrameworksBuildPhase section */
+		6F7E8F893098A1F100B9DCFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6F7E8F903098A1F100B9DCFC /* SwiftUI.framework in Frameworks */,
+				6F7E8F8E3098A1F100B9DCFC /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B9B6BB3028E8D686006EA228 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -48,6 +173,8 @@
 			isa = PBXGroup;
 			children = (
 				764F9F4104997A67D3BC2AD8 /* Pods_ETF_Calculator.framework */,
+				6F7E8F8D3098A1F100B9DCFC /* WidgetKit.framework */,
+				6F7E8F8F3098A1F100B9DCFC /* SwiftUI.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -61,10 +188,81 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		6F7E8B233097F3EB00B9DCFC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6F7E8B243097F3EB00B9DCFC /* SavingsPlan.swift */,
+				6F7E8B263097F3F900B9DCFC /* Scenario.swift */,
+				6F7E8B283097F3FB00B9DCFC /* CalculatorModel.swift */,
+				6F7E8B2A3097F40000B9DCFC /* Currency.swift */,
+				6F7E8B4A3098013300B9DCFC /* Analytics.swift */,
+				6F7E90773098A60E00B9DCFC /* TaxStore.swift */,
+				6F7E90A93098B7AA00B9DCFC /* PortfolioCSVImporter.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6F7E8B2C3097F40400B9DCFC /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				6F7E8B2D3097F40500B9DCFC /* StoreManager.swift */,
+				6F7E8B2F3097F41D00B9DCFC /* AdsManager.swift */,
+				6F7E8FED3098A24700B9DCFC /* WidgetSync.swift */,
+				6F7E90753098A5F700B9DCFC /* BaseRateService.swift */,
+				6F7E908D3098A67500B9DCFC /* ReminderService.swift */,
+				6F7E90AE3098B8BC00B9DCFC /* QuoteService.swift */,
+				6F7E91CB30992C3200B9DCFC /* DemoData.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		6F7E8B313097F46F00B9DCFC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6F7E8B323097F46F00B9DCFC /* ProjectionViews.swift */,
+				6F7E8B343097F47A00B9DCFC /* InputRows.swift */,
+				6F7E8B363097F47C00B9DCFC /* AppRouter.swift */,
+				6F7E8B383097F48900B9DCFC /* CalculatorView.swift */,
+				6F7E8B3A3097F4A200B9DCFC /* GoalView.swift */,
+				6F7E8B3C3097F4B200B9DCFC /* ScenariosView.swift */,
+				6F7E8B3E3097F4B800B9DCFC /* PaywallView.swift */,
+				6F7E8B403097F4C300B9DCFC /* SettingsView.swift */,
+				6F7E8B423097F4C700B9DCFC /* RootView.swift */,
+				6F7E8B4C3098019800B9DCFC /* NativeAdViews.swift */,
+				6F7E8B4E309801A400B9DCFC /* ProViews.swift */,
+				6F7E8B503098020E00B9DCFC /* PayoutView.swift */,
+				6F7E8B52309893D100B9DCFC /* DesignSystem.swift */,
+				6F7E8B54309897E500B9DCFC /* WelcomeView.swift */,
+				6F7E8F7F3098A13700B9DCFC /* PortfolioView.swift */,
+				6F7E8F813098A16B00B9DCFC /* ShareImageView.swift */,
+				6F7E90B23098B96500B9DCFC /* PortfolioHoldingsViews.swift */,
+				6F7E91B23098F67200B9DCFC /* Tips.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6F7E8C2B3098A07A00B9DCFC /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				6F7E8C2C3098A07A00B9DCFC /* AppGroup.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		6F7E8F833098A1D400B9DCFC /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				6F7E8F843098A1D400B9DCFC /* CalculatorIntents.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
 		B9B6BB2A28E8D686006EA228 = {
 			isa = PBXGroup;
 			children = (
+				6F7E8FE63098A20C00B9DCFC /* ETFWidgetExtension.entitlements */,
 				B9B6BB3528E8D686006EA228 /* ETF Calculator */,
+				6F7E8F913098A1F200B9DCFC /* ETFWidget */,
 				B9B6BB3428E8D686006EA228 /* Products */,
 				6D9DF910249F94EC4721490D /* Pods */,
 				5D1B077AE3155816A9E0DA88 /* Frameworks */,
@@ -75,6 +273,7 @@
 			isa = PBXGroup;
 			children = (
 				B9B6BB3328E8D686006EA228 /* ETF Calculator.app */,
+				6F7E8F8C3098A1F100B9DCFC /* ETFWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -82,14 +281,21 @@
 		B9B6BB3528E8D686006EA228 /* ETF Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				B9B6BB3628E8D686006EA228 /* AppDelegate.swift */,
-				B9B6BB3828E8D686006EA228 /* SceneDelegate.swift */,
-				B9B6BB3A28E8D686006EA228 /* ViewController.swift */,
-				B9B6BB3C28E8D686006EA228 /* Main.storyboard */,
+				6F7E8F7E3098A10800B9DCFC /* ETF Calculator.entitlements */,
+				6FE49EA928F371760085D6E9 /* android-chrome-512x512.png */,
 				B9B6BB3F28E8D689006EA228 /* Assets.xcassets */,
-				B9B6BB4128E8D689006EA228 /* LaunchScreen.storyboard */,
 				B9B6BB4428E8D689006EA228 /* Info.plist */,
-				B90C8B3228EB4AB1003D826A /* android-chrome-512x512.png */,
+				6F7E8B233097F3EB00B9DCFC /* Models */,
+				6F7E8B2C3097F40400B9DCFC /* Services */,
+				6F7E8B313097F46F00B9DCFC /* Views */,
+				6F7E8B443097F4C900B9DCFC /* ETFCalculatorApp.swift */,
+				6F7E8B463097F73300B9DCFC /* Localizable.xcstrings */,
+				6F7E8B483097F76900B9DCFC /* Products.storekit */,
+				6F7E8C2B3098A07A00B9DCFC /* Shared */,
+				6F7E8F833098A1D400B9DCFC /* Intents */,
+				6F7E8F863098A1E500B9DCFC /* AppShortcuts.xcstrings */,
+				6F7E9409309A606E00B9DCFC /* PrivacyInfo.xcprivacy */,
+				6F7E940D309A649700B9DCFC /* InfoPlist.xcstrings */,
 			);
 			path = "ETF Calculator";
 			sourceTree = "<group>";
@@ -97,6 +303,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		6F7E8F8B3098A1F100B9DCFC /* ETFWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6F7E8F9D3098A1F400B9DCFC /* Build configuration list for PBXNativeTarget "ETFWidgetExtension" */;
+			buildPhases = (
+				6F7E8F883098A1F100B9DCFC /* Sources */,
+				6F7E8F893098A1F100B9DCFC /* Frameworks */,
+				6F7E8F8A3098A1F100B9DCFC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				6F7E8F913098A1F200B9DCFC /* ETFWidget */,
+			);
+			name = ETFWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = ETFWidgetExtension;
+			productReference = 6F7E8F8C3098A1F100B9DCFC /* ETFWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		B9B6BB3228E8D686006EA228 /* ETF Calculator */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = B9B6BB4728E8D689006EA228 /* Build configuration list for PBXNativeTarget "ETF Calculator" */;
@@ -105,11 +333,13 @@
 				B9B6BB2F28E8D686006EA228 /* Sources */,
 				B9B6BB3028E8D686006EA228 /* Frameworks */,
 				B9B6BB3128E8D686006EA228 /* Resources */,
-				BEBC16418FD3A40E81C2FDB7 /* [CP] Embed Pods Frameworks */,
+				8CC7865C9BFABF55A763C6FA /* [CP] Copy Pods Resources */,
+				6F7E8FA03098A1F400B9DCFC /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				6F7E8F9A3098A1F400B9DCFC /* PBXTargetDependency */,
 			);
 			name = "ETF Calculator";
 			productName = "ETF Calculator";
@@ -123,9 +353,12 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1320;
+				LastSwiftUpdateCheck = 2710;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
+					6F7E8F8B3098A1F100B9DCFC = {
+						CreatedOnToolsVersion = 27.1;
+					};
 					B9B6BB3228E8D686006EA228 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
@@ -145,40 +378,55 @@
 			projectRoot = "";
 			targets = (
 				B9B6BB3228E8D686006EA228 /* ETF Calculator */,
+				6F7E8F8B3098A1F100B9DCFC /* ETFWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		6F7E8F8A3098A1F100B9DCFC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B9B6BB3128E8D686006EA228 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9B6BB4328E8D689006EA228 /* LaunchScreen.storyboard in Resources */,
+				6F7E940A309A606E00B9DCFC /* PrivacyInfo.xcprivacy in Resources */,
+				6F7E940E309A649700B9DCFC /* InfoPlist.xcstrings in Resources */,
+				6F7E8B493097F76900B9DCFC /* Products.storekit in Resources */,
 				B9B6BB4028E8D689006EA228 /* Assets.xcassets in Resources */,
-				B90C8B3328EB4AB1003D826A /* android-chrome-512x512.png in Resources */,
-				B9B6BB3E28E8D686006EA228 /* Main.storyboard in Resources */,
+				6FE49EAA28F371760085D6E9 /* android-chrome-512x512.png in Resources */,
+				6F7E8F873098A1E500B9DCFC /* AppShortcuts.xcstrings in Resources */,
+				6F7E8B473097F73300B9DCFC /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		BEBC16418FD3A40E81C2FDB7 /* [CP] Embed Pods Frameworks */ = {
+		8CC7865C9BFABF55A763C6FA /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ETF Calculator/Pods-ETF Calculator-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EE6AD26ADB98ACF749AE11B9 /* [CP] Check Pods Manifest.lock */ = {
@@ -206,38 +454,163 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		6F7E8F883098A1F100B9DCFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B9B6BB2F28E8D686006EA228 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9B6BB3B28E8D686006EA228 /* ViewController.swift in Sources */,
-				B9B6BB3728E8D686006EA228 /* AppDelegate.swift in Sources */,
-				B9B6BB3928E8D686006EA228 /* SceneDelegate.swift in Sources */,
+				6F7E8B3F3097F4B800B9DCFC /* PaywallView.swift in Sources */,
+				6F7E8B2B3097F40000B9DCFC /* Currency.swift in Sources */,
+				6F7E8B293097F3FB00B9DCFC /* CalculatorModel.swift in Sources */,
+				6F7E91B33098F67200B9DCFC /* Tips.swift in Sources */,
+				6F7E8B2E3097F40500B9DCFC /* StoreManager.swift in Sources */,
+				6F7E8B3B3097F4A200B9DCFC /* GoalView.swift in Sources */,
+				6F7E90783098A60E00B9DCFC /* TaxStore.swift in Sources */,
+				6F7E8B333097F46F00B9DCFC /* ProjectionViews.swift in Sources */,
+				6F7E8B253097F3EB00B9DCFC /* SavingsPlan.swift in Sources */,
+				6F7E91CC30992C3200B9DCFC /* DemoData.swift in Sources */,
+				6F7E8F803098A13700B9DCFC /* PortfolioView.swift in Sources */,
+				6F7E8F823098A16B00B9DCFC /* ShareImageView.swift in Sources */,
+				6F7E8B413097F4C300B9DCFC /* SettingsView.swift in Sources */,
+				6F7E908E3098A67500B9DCFC /* ReminderService.swift in Sources */,
+				6F7E90AF3098B8BC00B9DCFC /* QuoteService.swift in Sources */,
+				6F7E90AA3098B7AA00B9DCFC /* PortfolioCSVImporter.swift in Sources */,
+				6F7E8B373097F47C00B9DCFC /* AppRouter.swift in Sources */,
+				6F7E8F853098A1D400B9DCFC /* CalculatorIntents.swift in Sources */,
+				6F7E8B393097F48900B9DCFC /* CalculatorView.swift in Sources */,
+				6F7E8FEE3098A24700B9DCFC /* WidgetSync.swift in Sources */,
+				6F7E8B3D3097F4B200B9DCFC /* ScenariosView.swift in Sources */,
+				6F7E8B453097F4C900B9DCFC /* ETFCalculatorApp.swift in Sources */,
+				6F7E8B513098020E00B9DCFC /* PayoutView.swift in Sources */,
+				6F7E8B4D3098019800B9DCFC /* NativeAdViews.swift in Sources */,
+				6F7E8B353097F47A00B9DCFC /* InputRows.swift in Sources */,
+				6F7E8B303097F41D00B9DCFC /* AdsManager.swift in Sources */,
+				6F7E90B33098B96500B9DCFC /* PortfolioHoldingsViews.swift in Sources */,
+				6F7E90763098A5F700B9DCFC /* BaseRateService.swift in Sources */,
+				6F7E8B273097F3F900B9DCFC /* Scenario.swift in Sources */,
+				6F7E8B55309897E500B9DCFC /* WelcomeView.swift in Sources */,
+				6F7E8B433097F4C700B9DCFC /* RootView.swift in Sources */,
+				6F7E8B53309893D100B9DCFC /* DesignSystem.swift in Sources */,
+				6F7E8B4B3098013300B9DCFC /* Analytics.swift in Sources */,
+				6F7E8C2D3098A07B00B9DCFC /* AppGroup.swift in Sources */,
+				6F7E8B4F309801A400B9DCFC /* ProViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXVariantGroup section */
-		B9B6BB3C28E8D686006EA228 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B9B6BB3D28E8D686006EA228 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
+/* Begin PBXTargetDependency section */
+		6F7E8F9A3098A1F400B9DCFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6F7E8F8B3098A1F100B9DCFC /* ETFWidgetExtension */;
+			targetProxy = 6F7E8F993098A1F400B9DCFC /* PBXContainerItemProxy */;
 		};
-		B9B6BB4128E8D689006EA228 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B9B6BB4228E8D689006EA228 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		6F7E8F9E3098A1F400B9DCFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_ENTITLEMENTS = ETFWidgetExtension.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 11;
+				DEVELOPMENT_TEAM = HNRK32U6CL;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ETFWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Owlvest;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.6;
+				MARKETING_VERSION = 2.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com.ETFWidget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				XROS_DEPLOYMENT_TARGET = 27.0;
+			};
+			name = Debug;
+		};
+		6F7E8F9F3098A1F400B9DCFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_ENTITLEMENTS = ETFWidgetExtension.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 11;
+				DEVELOPMENT_TEAM = HNRK32U6CL;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ETFWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Owlvest;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.6;
+				MARKETING_VERSION = 2.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com.ETFWidget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				XROS_DEPLOYMENT_TARGET = 27.0;
+			};
+			name = Release;
+		};
 		B9B6BB4528E8D689006EA228 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -360,25 +733,33 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "ETF Calculator/ETF Calculator.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_TEAM = HNRK32U6CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "ETF Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Owlvest;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = NO;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Your choice only affects which ads are shown. Premium removes all ads.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.6;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 2.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -391,25 +772,33 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "ETF Calculator/ETF Calculator.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_TEAM = HNRK32U6CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "ETF Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Owlvest;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = NO;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Your choice only affects which ads are shown. Premium removes all ads.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.6;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 2.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "app.etf-calculator.com";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -419,6 +808,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		6F7E8F9D3098A1F400B9DCFC /* Build configuration list for PBXNativeTarget "ETFWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6F7E8F9E3098A1F400B9DCFC /* Debug */,
+				6F7E8F9F3098A1F400B9DCFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		B9B6BB2E28E8D686006EA228 /* Build configuration list for PBXProject "ETF Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
