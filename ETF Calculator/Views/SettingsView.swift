@@ -21,6 +21,7 @@ struct SettingsView: View {
 
     @State private var isShowingPaywall = false
     @State private var isManagingSubscription = false
+    @State private var isRedeemingCode = false
 
     private var appVersion: String {
         let version = Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "–"
@@ -114,6 +115,10 @@ struct SettingsView: View {
                 PaywallView()
             }
             .manageSubscriptionsSheet(isPresented: $isManagingSubscription)
+            .offerCodeRedemption(isPresented: $isRedeemingCode) { _ in
+                // The new subscription also arrives via Transaction.updates; refresh right away anyway.
+                Task { await store.refreshEntitlements() }
+            }
             .onChange(of: router.isShowingPaywall) { _, isShowing in
                 // Locked rows request the paywall via the router; the root can't
                 // present it while this sheet is up, so present it from here.
@@ -167,6 +172,12 @@ struct SettingsView: View {
                     }
                     .padding(.vertical, 4)
                 }
+                Button {
+                    isRedeemingCode = true
+                } label: {
+                    SettingsLabel("Redeem Code", systemImage: "giftcard.fill", color: .pink)
+                }
+                .foregroundStyle(.primary)
                 Button {
                     Task { await store.restorePurchases() }
                 } label: {

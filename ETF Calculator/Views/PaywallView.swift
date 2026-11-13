@@ -172,6 +172,7 @@ private struct PaywallPlansStep: View {
         .subscriptionStoreControlStyle(.prominentPicker)
         .subscriptionStoreButtonLabel(.multiline)
         .storeButton(.visible, for: .restorePurchases)
+        .storeButton(.visible, for: .redeemCode)
         .storeButton(.visible, for: .policies)
         .storeButton(.hidden, for: .cancellation)
         .tint(.orange)

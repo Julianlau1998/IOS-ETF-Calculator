@@ -3884,6 +3884,17 @@
           }
         }
       }
+    },
+    "Redeem Code": {
+      "comment": "Settings row that opens Apple's sheet to redeem a subscription offer code",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code einlösen"
+          }
+        }
+      }
     }
   },
   "version": "1.0"
